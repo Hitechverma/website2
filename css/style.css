@@ -1,0 +1,26 @@
+#note{
+	/*border: 2px solid black;*/
+	margin-top: 2%;
+}
+
+#note1{
+	border: 2px solid blue;
+	height: 250px;
+}
+
+#note2{
+	/*border: 2px solid red;*/
+}
+
+.note_head{
+	background-color: #CA1D20;
+	text-align: center;
+	color: #FFF;
+}
+
+.note_sec{
+	background-color: #9FC2FC;
+	font-size: 1.5em;
+	color: #FFF;
+}
+
