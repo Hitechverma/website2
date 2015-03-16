@@ -11,7 +11,8 @@
 }
 
 #note2{
-	/*border: 2px solid red;*/
+	border: 2px solid red;
+	height: 150px;
 }
 
 .note_head{
