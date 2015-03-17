@@ -6,12 +6,17 @@
 #note1{
 	/*border: 2px solid blue;*/
 	background-color: #F8F8F8;
-	
+}
 
+.rest{
+	padding-left: 5%;
 }
 
 #note2{
-	border: 2px solid red;
+	border: 2px solid;
+	border-color: #2A2A2A;
+	background-color: #2A2A2A;
+	color: #fff;
 	height: 150px;
 }
 
