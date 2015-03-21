@@ -12,6 +12,13 @@
 	padding-left: 5%;
 }
 
+#w_head{
+	color: #fff;
+	border-radius: 0 22px;
+	text-shadow: 1px 1px;
+	background: none repeat scroll 0 0 rgb(219, 117, 117);
+}
+
 #foot{
 	border: 2px solid;
 	margin: auto;
