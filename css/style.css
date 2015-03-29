@@ -9,7 +9,8 @@
 }
 
 .rest{
-	padding-left: 5%;
+	margin-top: -1em;
+	padding-left: 6%;
 }
 
 #w_head{
@@ -25,7 +26,7 @@
 	border-color: #2A2A2A;
 	background-color: #2A2A2A;
 	color: #fff;
-	height: 150px;
+	/*height: 150px;*/
 }
 
 .note_head{
@@ -39,5 +40,6 @@
 	background-color: #9FC2FC;
 	font-size: 1.5em;
 	color: #FFF;
+	height: 17em;
 }
 
